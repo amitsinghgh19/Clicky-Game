@@ -1,6 +1,6 @@
 
 .gameCard {
-    width: 150px;
+    width: 180px;
     height: 150px;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -17,7 +17,7 @@
 
     .gameCard {
         height: 100px;
-        width: 100px;
+        width: 120px;
     }
 }
 
@@ -25,6 +25,6 @@
 
     .gameCard {
         height: 75px;
-        width: 75px;
+        width: 85px;
     }
 }

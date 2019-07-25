@@ -88,11 +88,5 @@
     "name": "baby15",
     "clicked": false,
     "image": "assets/images/baby15.jpg"
-  },
-  {
-    "id": 16,
-    "name": "baby16",
-    "clicked": false,
-    "image": "assets/images/baby16.jpg"
   }
 ]

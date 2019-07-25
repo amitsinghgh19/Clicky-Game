@@ -8,6 +8,11 @@
     font-size: 1.3em;
     font-weight: bold;
     
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
 }
 
 .instructions {

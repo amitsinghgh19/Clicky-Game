@@ -13,7 +13,7 @@ class Game extends Component {
         data,
         score: 0,
         topScore: 0,
-        message: "Game Rules:- Simple! Just click on as many baby pictures to earn points, but do not click on the same picure twice. If you click on the same picture twice, you will lose the game. Good Luck! "
+        message: "Game Rules:- Simple! Just click on as many baby images to earn points, but do not click on the same image twice. If you click on the same image twice, you will lose the game. Good Luck! "
     };
     // function gets called when the page loads
     componentDidMount() {
