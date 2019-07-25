@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "baby1",
+    "clicked": false,
+    "image": "assets/images/baby1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "baby2",
+    "clicked": false,
+    "image": "assets/images/baby2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "baby3",
+    "clicked": false,
+    "image": "assets/images/baby3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "baby4",
+    "clicked": false,
+    "image": "assets/images/baby4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "baby5",
+    "clicked": false,
+    "image": "assets/images/baby5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "baby6",
+    "clicked": false,
+    "image": "assets/images/baby6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "baby7",
+    "clicked": false,
+    "image": "assets/images/baby7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "baby8",
+    "clicked": false,
+    "image": "assets/images/baby8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "baby9",
+    "clicked": false,
+    "image": "assets/images/baby9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "baby10",
+    "clicked": false,
+    "image": "assets/images/baby10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "baby11",
+    "clicked": false,
+    "image": "assets/images/baby11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "baby12",
+    "clicked": false,
+    "image": "assets/images/baby12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "baby13",
+    "clicked": false,
+    "image": "assets/images/baby13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "baby14",
+    "clicked": false,
+    "image": "assets/images/baby14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "baby15",
+    "clicked": false,
+    "image": "assets/images/baby15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "baby16",
+    "clicked": false,
+    "image": "assets/images/baby16.jpg"
+  }
+]
