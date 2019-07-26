@@ -2,7 +2,7 @@
 .footer {
     min-height: 80px;
     width: 100%;
-    background: red;
+    background: rgb(1,141,229);
     box-shadow: 0 0 5px 1px darkslategrey;
     position: relative;
     margin-top: 50px;
@@ -16,8 +16,8 @@
     margin: 0 auto;
     width: 100%;
     min-height: 50px;
-    border-top: 5px solid rgb(236, 0, 0);
-    background: rgb(224, 0, 0);
+    /* border-top: 5px solid rgb(236, 0, 0); */
+    background:rgb(1,141,229);
     text-align: center;
 }
 
