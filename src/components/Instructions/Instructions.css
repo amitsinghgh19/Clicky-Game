@@ -6,8 +6,8 @@
     box-shadow: 0 2px 5px 0 darkslategray;
     font-family: 'Patua One', cursive;
     font-size: 1.3em;
-    font-weight: bold;
-    
+    /* width: 50%; */
+    /* height: 330px;; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

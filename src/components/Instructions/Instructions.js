@@ -4,9 +4,8 @@ import "./Instructions.css";
 
 const Instructions = (props) => (
     <div className="jumbo">
-        <Jumbotron style={{'background-image': `url("assets/images/cutebabybg3.png")`}} >
-            <h3 className=" animated fadeInDown instructions">{props.message}</h3>
-            <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        <Jumbotron style={{'background-image': `url("assets/images/cutebabybg9.jpg")`}} >
+            <h3 className="animated fadeInDown instructions">{props.message}</h3>
         </Jumbotron>
     </div>
 );
