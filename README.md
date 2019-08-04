@@ -8,7 +8,7 @@ Completed on: July 27th 2019
 - - -
 ## IMPORTANT LINKS
 
-* [Link to the app hosted on Heroku]()
+* [Link to the app hosted on Heroku](https://cute-baby-clicky-game.herokuapp.com/)
 
 * [Link to github repository](https://github.com/amitsinghgh19/clicky-game.git)
 
