@@ -3,7 +3,7 @@ import { Jumbotron } from 'reactstrap';
 import "./Instructions.css";
 
 const Instructions = (props) => (
-    <div className="jumbo img-fluid img-thumbnail">
+    <div className="jumbo img-fluid img-thumbnail " alt="Responsive image">
         <br/>
         <Jumbotron style={{'backgroundImage': `url("assets/images/cutebabybg13.png")`}} ></Jumbotron>
         <h4 className="bg-warning m-4 p-2 animated fadeInDown instructions">{props.message}</h4>
