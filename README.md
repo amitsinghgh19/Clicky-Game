@@ -20,7 +20,7 @@ Clicky Game uses a react app to build a memory based game.
 
 Home Page
 
-![Homepage]()
+![Homepage](./public/assets/images/homepage.png)
 
 - - -
 ## Technologies Used
